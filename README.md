@@ -49,3 +49,5 @@ Then, if you have [Python 3](https://python.org/) and [Just](https://github.com/
 ```
 just run <day1|day2|...>
 ```
+
+Each day's solutions are located in their respective folder `dayN`. The source code reads from standard input, and it is executed using the script `run.sh`.
