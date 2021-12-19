@@ -2,9 +2,9 @@
 
 _Advent of Code 2021 solutions, but every day, I use a new programming language **starting with a different letter of the alphabet**._
 
-The goal of this exercise is to think about many new programming languages that I've been curious about for a while. Whenever there's a choice between multiple excellent languages within a category, I'll pick the one that I have the least experience with.
+The goal of this exercise is to think about some new programming languages that I've been curious about for a while now. Whenever there's a choice between multiple excellent languages within a category, I pick the one that I have the least familiarity with.
 
-This will likely be quite challenging, although I do PL research. It's probably going to be a nightmare for environment configuration too, but hey, that's part of exploration! ✨
+All of this will be challenging, as well as a nightmare for environment configuration, but hey, that's part of exploration! ✨
 
 ## Schedule (Tentative)
 
