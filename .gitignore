@@ -1,4 +1,9 @@
 .vscode/
 .env
 input.txt
+
+# Day 2
 main
+
+# Day 3
+*.wasm

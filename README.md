@@ -4,15 +4,15 @@ _Advent of Code 2021 solutions, but every day, I use a new programming language 
 
 The goal of this exercise is to think about some new programming languages that I've been curious about for a while now. Whenever there's a choice between multiple excellent languages within a category, I pick the one that I have the least familiarity with.
 
-All of this will be challenging, as well as a nightmare for environment configuration, but hey, that's part of exploration! ✨
+All of this will be challenging, as well as a nightmare for environment setup, but hey, challenge is an essential part of exploration! ✨
 
 ## Schedule (Tentative)
 
 To make things a little more tractable, I'll be going through the alphabet in reverse order, since the hardest problems are at the end.
 
-1. [Zig](https://ziglang.org/)
-2. [x86 Assembly](https://en.wikipedia.org/wiki/X86_assembly_language)
-3. [WebAssembly](https://webassembly.org/)
+1. [Zig](https://ziglang.org/) — [problem](https://adventofcode.com/2021/day/1), [solution](./day1)
+2. [x86 Assembly](https://en.wikipedia.org/wiki/X86_assembly_language) — [problem](https://adventofcode.com/2021/day/2), [solution](./day2)
+3. [WebAssembly](https://webassembly.org/) — [problem](https://adventofcode.com/2021/day/3), [solution](./day3)
 4. [V](https://vlang.io/)
 5. [Unix Shell (Zsh)](https://www.zsh.org/)
 6. [TypeScript](https://www.typescriptlang.org/)
