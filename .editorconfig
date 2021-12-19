@@ -1,0 +1,10 @@
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[justfile]
+tab_width = 2
+
+[*.py]
+tab_width = 4
