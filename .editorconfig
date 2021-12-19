@@ -6,7 +6,7 @@ trim_trailing_whitespace = true
 [justfile]
 tab_width = 2
 
-[*.sh]
+[*.{c,sh}]
 tab_width = 2
 
 [*.{py,zig}]
