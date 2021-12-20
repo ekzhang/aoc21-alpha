@@ -7,3 +7,6 @@ main
 
 # Day 3
 *.wasm
+
+# Day 6
+build/

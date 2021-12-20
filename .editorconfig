@@ -7,7 +7,7 @@ indent_style = space
 [justfile]
 tab_width = 2
 
-[*.{c,sh,mjs,wast,zsh}]
+[*.{c,sh,mjs,wast,zsh,ts,json}]
 tab_width = 2
 
 [*.{py,zig,S}]
