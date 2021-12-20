@@ -2,6 +2,7 @@
 end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
+indent_style = space
 
 [justfile]
 tab_width = 2
@@ -11,3 +12,7 @@ tab_width = 2
 
 [*.{py,zig,S}]
 tab_width = 4
+
+[*.v]
+tab_width = 4
+indent_style = tab
