@@ -14,7 +14,7 @@ To make things a little more tractable, I'll be going through the alphabet in re
 2. [x86 Assembly](https://en.wikipedia.org/wiki/X86_assembly_language) — [problem](https://adventofcode.com/2021/day/2), [solution](./day2)
 3. [WebAssembly](https://webassembly.org/) — [problem](https://adventofcode.com/2021/day/3), [solution](./day3)
 4. [V](https://vlang.io/) — [problem](https://adventofcode.com/2021/day/4), [solution](./day4)
-5. [Unix Shell (Zsh)](https://www.zsh.org/)
+5. [Unix Shell (Zsh)](https://www.zsh.org/) — [problem](https://adventofcode.com/2021/day/5), [solution](./day5)
 6. [TypeScript](https://www.typescriptlang.org/)
 7. [Scala](https://www.scala-lang.org)
 8. [Ruby](https://www.ruby-lang.org/en/)
