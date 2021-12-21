@@ -10,3 +10,7 @@ main
 
 # Day 6
 build/
+
+# Day 7
+*.class
+*.tasty

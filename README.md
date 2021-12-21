@@ -16,7 +16,7 @@ To make things a little more tractable, I'll be going through the alphabet in re
 4. [V](https://vlang.io/) — [problem](https://adventofcode.com/2021/day/4), [solution](./day4)
 5. [Unix Shell (Zsh)](https://www.zsh.org/) — [problem](https://adventofcode.com/2021/day/5), [solution](./day5)
 6. [TypeScript](https://www.typescriptlang.org/) — [problem](https://adventofcode.com/2021/day/6), [solution](./day6)
-7. [Scala](https://www.scala-lang.org)
+7. [Scala](https://www.scala-lang.org/) — [problem](https://adventofcode.com/2021/day/7), [solution](./day7)
 8. [Ruby](https://www.ruby-lang.org/en/)
 9. [Q#](https://qsharp.community/)
 10. [Pikelet](https://github.com/pikelet-lang/pikelet)
