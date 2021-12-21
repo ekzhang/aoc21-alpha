@@ -18,7 +18,7 @@ To make things a little more tractable, I'll be going through the alphabet in re
 6. [TypeScript](https://www.typescriptlang.org/) — [problem](https://adventofcode.com/2021/day/6), [solution](./day6)
 7. [Scala](https://www.scala-lang.org/) — [problem](https://adventofcode.com/2021/day/7), [solution](./day7)
 8. [Ruby](https://www.ruby-lang.org/en/) — [problem](https://adventofcode.com/2021/day/8), [solution](./day8)
-9. [Q#](https://qsharp.community/)
+9. [Q (SQL)](https://github.com/harelba/q) — [problem](https://adventofcode.com/2021/day/9), [solution](./day9)
 10. [Pikelet](https://github.com/pikelet-lang/pikelet)
 11. [Odin](https://odin-lang.org/)
 12. [Nim](https://nim-lang.org/)
