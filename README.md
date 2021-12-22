@@ -22,7 +22,7 @@ To make things a little more tractable, I'll be going through the alphabet in re
 10. [Prolog](https://www.swi-prolog.org/) — [problem](https://adventofcode.com/2021/day/10), [solution](./day10)
 11. [OCaml](https://ocaml.org/) — [problem](https://adventofcode.com/2021/day/11), [solution](./day11)
 12. [Nim](https://nim-lang.org/) — [problem](https://adventofcode.com/2021/day/12), [solution](./day12)
-13. [Mun](https://mun-lang.org/)
+13. [MoonScript](https://moonscript.org/) — [problem](https://adventofcode.com/2021/day/13), [solution](./day13)
 14. [Lisp (SBCL)](https://common-lisp.net/)
 15. [Kotlin](https://kotlinlang.org/)
 16. [Julia](https://julialang.org/)
