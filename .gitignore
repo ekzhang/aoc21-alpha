@@ -17,3 +17,6 @@ build/
 
 # Day 9
 *.csv
+
+# Day 18
+dist-newstyle/

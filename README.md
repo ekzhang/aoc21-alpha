@@ -27,7 +27,7 @@ To make things a little more tractable, I'll be going through the alphabet in re
 15. [Kotlin](https://kotlinlang.org/) — [problem](https://adventofcode.com/2021/day/15), [solution](./day15)
 16. [Julia](https://julialang.org/) — [problem](https://adventofcode.com/2021/day/16), [solution](./day16)
 17. [Idris](https://www.idris-lang.org/) — [problem](https://adventofcode.com/2021/day/17), [solution](./day17)
-18. [Haskell](https://www.haskell.org/)
+18. [Haskell](https://www.haskell.org/) — [problem](https://adventofcode.com/2021/day/18), [solution](./day18)
 19. [Go](https://go.dev/)
 20. [F#](https://fsharp.org/)
 21. [Elixir](https://elixir-lang.org/)
