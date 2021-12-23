@@ -10,7 +10,7 @@ tab_width = 2
 [*.{c,sh,mjs,wast,zsh,ts,json,scala,rb,sql,pl,ml,nim,moon,lisp}]
 tab_width = 2
 
-[*.{py,zig,S}]
+[*.{py,zig,S,kt,kts}]
 tab_width = 4
 
 [*.v]
