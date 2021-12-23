@@ -28,7 +28,7 @@ To make things a little more tractable, I'll be going through the alphabet in re
 16. [Julia](https://julialang.org/) — [problem](https://adventofcode.com/2021/day/16), [solution](./day16)
 17. [Idris](https://www.idris-lang.org/) — [problem](https://adventofcode.com/2021/day/17), [solution](./day17)
 18. [Haskell](https://www.haskell.org/) — [problem](https://adventofcode.com/2021/day/18), [solution](./day18)
-19. [Go](https://go.dev/)
+19. [Go](https://go.dev/) — [problem](https://adventofcode.com/2021/day/19), [solution](./day19)
 20. [F#](https://fsharp.org/)
 21. [Elixir](https://elixir-lang.org/)
 22. [Dart](https://dart.dev/)
@@ -84,5 +84,6 @@ This is my runtime environment for each language on macOS Monterey v12.0.1, M1 /
 - **Day 16:** Julia 1.7.0 (`brew install --cask julia`).
 - **Day 17:** Idris2 0.5.1, x86_64 version (`arch -x86_64 /usr/local/bin/brew install idris2`).
 - **Day 18:** GHC 8.10.7, Cabal 3.6.2.0 (`brew install ghc cabal-install`).
+- **Day 19:** Go 1.17.5, darwin/arm64 (`brew install go`).
 
 Note that while exact version numbers are provided above, the code will likely work with newer versions of these languages as well. Also, assume a global dependency on Python 3.9+, Node v16+, and NPM v8+.

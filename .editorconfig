@@ -13,6 +13,6 @@ tab_width = 2
 [*.{py,zig,S,kt,kts,jl}]
 tab_width = 4
 
-[*.v]
+[*.{v,go}]
 tab_width = 4
 indent_style = tab
