@@ -25,7 +25,7 @@ To make things a little more tractable, I'll be going through the alphabet in re
 13. [MoonScript](https://moonscript.org/) — [problem](https://adventofcode.com/2021/day/13), [solution](./day13)
 14. [Lisp (SBCL)](https://common-lisp.net/) — [problem](https://adventofcode.com/2021/day/14), [solution](./day14)
 15. [Kotlin](https://kotlinlang.org/) — [problem](https://adventofcode.com/2021/day/15), [solution](./day15)
-16. [Julia](https://julialang.org/)
+16. [Julia](https://julialang.org/) — [problem](https://adventofcode.com/2021/day/16), [solution](./day16)
 17. [Idris](https://www.idris-lang.org/)
 18. [Haskell](https://www.haskell.org/)
 19. [Go](https://go.dev/)
