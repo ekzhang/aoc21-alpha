@@ -1,0 +1,6 @@
+name: day22
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+dependencies: 
+  collection: ^1.15.0

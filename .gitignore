@@ -20,3 +20,7 @@ build/
 
 # Day 18
 dist-newstyle/
+
+# Day 22
+.dart_tool/
+.packages
