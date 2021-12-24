@@ -1,14 +1,18 @@
 # aoc21-alpha
 
-_Advent of Code 2021 solutions, but every day, I use a new programming language **starting with a different letter of the alphabet**._
+_Advent of Code 2021, but I solve the puzzles with 25 different programming languages **starting with each letter of the alphabet**._
 
-The goal of this exercise is to think about some new programming languages that I've been curious about for a while now. Whenever there's a choice between multiple excellent languages within a category, I pick the one that I have the least familiarity with.
+The goal of this exercise was to learn some less-common programming languages that I've been curious about, in various paradigms, compilation modes, and historical contexts. Whenever there was a choice between multiple excellent languages for a given day's puzzle, I chose the one that I had the least familiarity with.
 
-All of this will be challenging, as well as a nightmare for environment setup, but hey, challenge is an essential part of exploration! ✨
+This was obviously intellectually challenging and pretty tough on environment setup, but hey, challenge is an essential part of exploration! ✨
 
-## Schedule (Tentative)
+## Learnings
 
-To make things a little more tractable, I'll be going through the alphabet in reverse order, since the hardest problems are at the end.
+See [`LEARNINGS.md`](./LEARNINGS.md) for some final observations about this experience.
+
+## Schedule
+
+To make things a little more tractable, I'm going through the alphabet in reverse order, since the hardest problems are at the end.
 
 1. [Zig](https://ziglang.org/) — [problem](https://adventofcode.com/2021/day/1), [solution](./day1)
 2. [x86 Assembly](https://en.wikipedia.org/wiki/X86_assembly_language) — [problem](https://adventofcode.com/2021/day/2), [solution](./day2)
@@ -33,7 +37,7 @@ To make things a little more tractable, I'll be going through the alphabet in re
 21. [Elixir](https://elixir-lang.org/) — [problem](https://adventofcode.com/2021/day/21), [solution](./day21)
 22. [Dart](https://dart.dev/) — [problem](https://adventofcode.com/2021/day/22), [solution](./day22)
 23. [Crystal](https://crystal-lang.org/) — [problem](https://adventofcode.com/2021/day/23), [solution](./day23)
-24. [Bosque](https://github.com/Microsoft/BosqueLanguage)
+24. [Boolector (BTOR)](https://boolector.github.io/) — [problem](https://adventofcode.com/2021/day/24), [solution](./day24)
 25. [AssemblyScript](https://www.assemblyscript.org/)
 
 ## Development
@@ -89,5 +93,6 @@ This is my runtime environment for each language on macOS Monterey v12.0.1, M1 /
 - **Day 21:** Elixir 1.13.1, Erlang/OTP 24.2 (`brew install elixir`).
 - **Day 22:** Flutter 2.8.1, Dart 2.15.1 (`brew install --cask flutter`).
 - **Day 23:** Crystal 1.2.2 (`brew install crystal`).
+- **Day 24:** Boolector 3.2.0 (`brew tap mht208/formal && brew install boolector`).
 
 Note that while exact version numbers are provided above, the code will likely work with newer versions of these languages as well. Also, assume a global dependency on Python 3.9+, Node v16+, and NPM v8+.
