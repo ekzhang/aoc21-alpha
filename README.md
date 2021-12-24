@@ -29,7 +29,7 @@ To make things a little more tractable, I'll be going through the alphabet in re
 17. [Idris](https://www.idris-lang.org/) — [problem](https://adventofcode.com/2021/day/17), [solution](./day17)
 18. [Haskell](https://www.haskell.org/) — [problem](https://adventofcode.com/2021/day/18), [solution](./day18)
 19. [Go](https://go.dev/) — [problem](https://adventofcode.com/2021/day/19), [solution](./day19)
-20. [F#](https://fsharp.org/)
+20. [F#](https://fsharp.org/) — [problem](https://adventofcode.com/2021/day/20), [solution](./day20)
 21. [Elixir](https://elixir-lang.org/)
 22. [Dart](https://dart.dev/)
 23. [Crystal](https://crystal-lang.org/)
@@ -85,5 +85,6 @@ This is my runtime environment for each language on macOS Monterey v12.0.1, M1 /
 - **Day 17:** Idris2 0.5.1, x86_64 version (`arch -x86_64 /usr/local/bin/brew install idris2`).
 - **Day 18:** GHC 8.10.7, Cabal 3.6.2.0 (`brew install ghc cabal-install`).
 - **Day 19:** Go 1.17.5, darwin/arm64 (`brew install go`).
+- **Day 20:** .NET Core SDK 3.1.416 (`brew install --cask dotnet-sdk`).
 
 Note that while exact version numbers are provided above, the code will likely work with newer versions of these languages as well. Also, assume a global dependency on Python 3.9+, Node v16+, and NPM v8+.
