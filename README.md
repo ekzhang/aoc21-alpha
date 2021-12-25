@@ -74,7 +74,7 @@ This is my runtime environment for each language on macOS Monterey v12.0.1, M1 /
 
 - **Day 1:** Zig 0.10.0-dev.2028+ea913846c (`brew install zig --HEAD`).
 - **Day 2:** Apple clang version 13.0.0, target arm64-apple-darwin21.1.0.
-- **Day 3:** Binaryen version 102 (`brew install bianryen`).
+- **Day 3:** Binaryen version 102 (`brew install binaryen`).
 - **Day 4:** V 0.2.4 b72a2de (`brew install vlang`).
 - **Day 5:** Zsh 5.8 (x86_64-apple-darwin21.0).
 - **Day 6:** TypeScript 4.5.4 (`npm install -g typescript`).
