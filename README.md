@@ -38,7 +38,7 @@ To make things a little more tractable, I'm going through the alphabet in revers
 22. [Dart](https://dart.dev/) — [problem](https://adventofcode.com/2021/day/22), [solution](./day22)
 23. [Crystal](https://crystal-lang.org/) — [problem](https://adventofcode.com/2021/day/23), [solution](./day23)
 24. [Boolector (BTOR)](https://boolector.github.io/) — [problem](https://adventofcode.com/2021/day/24), [solution](./day24)
-25. [AssemblyScript](https://www.assemblyscript.org/)
+25. [AssemblyScript](https://www.assemblyscript.org/) — [problem](https://adventofcode.com/2021/day/25), [solution](./day25)
 
 ## Development
 
@@ -94,5 +94,6 @@ This is my runtime environment for each language on macOS Monterey v12.0.1, M1 /
 - **Day 22:** Flutter 2.8.1, Dart 2.15.1 (`brew install --cask flutter`).
 - **Day 23:** Crystal 1.2.2 (`brew install crystal`).
 - **Day 24:** Boolector 3.2.0 (`brew tap mht208/formal && brew install boolector`).
+- **Day 25:** AssemblyScript 0.19.22.
 
 Note that while exact version numbers are provided above, the code will likely work with newer versions of these languages as well. Also, assume a global dependency on Python 3.9+, Node v16+, and NPM v8+.

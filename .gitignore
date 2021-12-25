@@ -24,3 +24,6 @@ dist-newstyle/
 # Day 22
 .dart_tool/
 .packages
+
+# Day 25
+node_modules/

@@ -1,0 +1,17 @@
+{
+  "name": "day25",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "asbuild:untouched": "asc assembly/index.ts --target debug --exportRuntime",
+    "asbuild:optimized": "asc assembly/index.ts --target release --exportRuntime",
+    "asbuild": "npm run asbuild:untouched && npm run asbuild:optimized",
+    "test": "node tests"
+  },
+  "dependencies": {
+    "@assemblyscript/loader": "^0.19.22"
+  },
+  "devDependencies": {
+    "assemblyscript": "^0.19.22"
+  }
+}
