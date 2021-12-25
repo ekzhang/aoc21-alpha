@@ -1,5 +1,7 @@
 # aoc21-alpha
 
+[![](https://tokei.rs/b1/github/ekzhang/aoc21-alpha)](https://github.com/ekzhang/aoc21-alpha)
+
 _Advent of Code 2021, but I solve the puzzles with 25 different programming languages **starting with each letter of the alphabet**._
 
 The goal of this exercise was to learn some less-common programming languages that I've been curious about, in various paradigms, compilation modes, and historical contexts. Whenever there was a choice between multiple excellent languages for a given day's puzzle, I chose the one that I had the least familiarity with.
